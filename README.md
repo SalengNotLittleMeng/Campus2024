@@ -126,3 +126,10 @@
 | 360          | [日常实习](https://360campus.zhiye.com/jobs)                                                                                                                                                                                                                                                                             | 2023/3/6  |      |                                          |
 | 东软     | [日常实习](https://neusoft-campus.zhiye.com/intern/jobs)                                                                                                                                                                   | 2023/3/12 |      |                                        |
 | 又拍云 | 暂无实习 | 2023/3/14 | | |
+
+<script type="text/javascript">
+    let linkNodeList=Array.from(document.querySelectorAll(selectors));
+    linkNodeList.foreach(node=>{
+        node.setAttribute('target', '_blank')
+    })
+</script>
