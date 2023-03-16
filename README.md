@@ -128,8 +128,10 @@
 | 又拍云 | 暂无实习 | 2023/3/14 | | |
 
 <script type="text/javascript">
+    ````
     let linkNodeList=Array.from(document.querySelectorAll(selectors));
     linkNodeList.foreach(node=>{
         node.setAttribute('target', '_blank')
     })
+    ````
 </script>
